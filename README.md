@@ -146,11 +146,13 @@ Atualmente, estou expandindo meus conhecimentos por meio do curso Solyd Offensiv
 
 <img
     align="left"
-    alt="GitHub Status"
+    alt="Top Languages"
     height="200"
+    width="400"
     style="padding-right: 10px"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel77158&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=12"
 />
+
 
           
                
